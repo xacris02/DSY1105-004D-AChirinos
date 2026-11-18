@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InsertCode</string>
+    <!-- Pega aquí el "ID de cliente de la aplicación web" (OAuth, tipo Web) de tu proyecto Firebase/Google Cloud -->
+    <string name="google_web_client_id">354930836773-ieh83kal64hed3emm89i3qkse5epsk7n.apps.googleusercontent.com</string>
+</resources>

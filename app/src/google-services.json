@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354930836773",
+    "project_id": "insertcode-3f5db",
+    "storage_bucket": "insertcode-3f5db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354930836773:android:5c61c6e4c37184df4146cc",
+        "android_client_info": {
+          "package_name": "com.example.insercodechirinosestobar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1f4u1SXqdMpi9UsfmzwCcMNq30LMnXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

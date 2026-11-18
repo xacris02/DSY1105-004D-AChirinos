@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base oscura para que no haya destello blanco al abrir la app -->
+    <style name="Theme.InserCode" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0C1411</item>
+        <item name="android:statusBarColor">#0C1411</item>
+        <item name="android:navigationBarColor">#121D19</item>
+    </style>
+</resources>
